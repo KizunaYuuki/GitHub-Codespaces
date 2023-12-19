@@ -54,3 +54,7 @@ function run(): void {
 }
 
 run();
+
+
+// Create
+// npm run ng generate component home --inline-template --skip-tests
