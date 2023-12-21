@@ -23,7 +23,7 @@
 	// Add Yourself
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "npm install",
-	"postAttachCommand": "npm start",
+	"postAttachCommand": "npm start --watch",
 	"customizations": {
 		"vscode": {
 			"extensions": [
