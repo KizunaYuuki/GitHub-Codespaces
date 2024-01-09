@@ -23,7 +23,7 @@
 	// Add Yourself
 	"waitFor": "onCreateCommand",
 	"updateContentCommand": "npm install",
-	"postAttachCommand": "npm start --watch",
+	"postAttachCommand": "npm install -g @angular/cli", 
 	"customizations": {
 		"vscode": {
 			"extensions": [
